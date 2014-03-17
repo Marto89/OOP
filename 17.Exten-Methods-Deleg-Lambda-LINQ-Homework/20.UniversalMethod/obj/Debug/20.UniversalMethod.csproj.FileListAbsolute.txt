@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\20.UniversalMethod\bin\Debug\20.UniversalMethod.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\20.UniversalMethod\bin\Debug\20.UniversalMethod.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\20.UniversalMethod\bin\Debug\20.UniversalMethod.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\20.UniversalMethod\obj\Debug\20.UniversalMethod.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\20.UniversalMethod\obj\Debug\20.UniversalMethod.pdb

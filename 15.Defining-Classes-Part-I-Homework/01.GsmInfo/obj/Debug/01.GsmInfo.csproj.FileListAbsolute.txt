@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\15.Defining-Classes-Part-I-Homework\01.GsmInfo\bin\Debug\01.GsmInfo.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\15.Defining-Classes-Part-I-Homework\01.GsmInfo\bin\Debug\01.GsmInfo.exe
+c:\users\marto\documents\visual studio 2013\Projects\15.Defining-Classes-Part-I-Homework\01.GsmInfo\bin\Debug\01.GsmInfo.pdb
+c:\users\marto\documents\visual studio 2013\Projects\15.Defining-Classes-Part-I-Homework\01.GsmInfo\obj\Debug\01.GsmInfo.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\15.Defining-Classes-Part-I-Homework\01.GsmInfo\obj\Debug\01.GsmInfo.exe
+c:\users\marto\documents\visual studio 2013\Projects\15.Defining-Classes-Part-I-Homework\01.GsmInfo\obj\Debug\01.GsmInfo.pdb

@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\02.Bank\bin\Debug\02.Bank.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\02.Bank\bin\Debug\02.Bank.exe
+c:\users\marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\02.Bank\bin\Debug\02.Bank.pdb
+c:\users\marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\02.Bank\obj\Debug\02.Bank.exe
+c:\users\marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\02.Bank\obj\Debug\02.Bank.pdb
+c:\users\marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\02.Bank\obj\Debug\02.Bank.csprojResolveAssemblyReference.cache

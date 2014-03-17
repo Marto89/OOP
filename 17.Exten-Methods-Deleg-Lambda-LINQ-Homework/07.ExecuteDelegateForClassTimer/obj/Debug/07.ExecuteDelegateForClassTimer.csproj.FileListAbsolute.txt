@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\07.ExecuteDelegateForClassTimer\bin\Debug\07.ExecuteDelegateForClassTimer.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\07.ExecuteDelegateForClassTimer\obj\Debug\07.ExecuteDelegateForClassTimer.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\07.ExecuteDelegateForClassTimer\bin\Debug\07.ExecuteDelegateForClassTimer.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\07.ExecuteDelegateForClassTimer\bin\Debug\07.ExecuteDelegateForClassTimer.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\07.ExecuteDelegateForClassTimer\obj\Debug\07.ExecuteDelegateForClassTimer.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\07.ExecuteDelegateForClassTimer\obj\Debug\07.ExecuteDelegateForClassTimer.pdb

@@ -1,0 +1,3 @@
+Georgi, 1200
+Pesho, 1300
+Angel, 1000

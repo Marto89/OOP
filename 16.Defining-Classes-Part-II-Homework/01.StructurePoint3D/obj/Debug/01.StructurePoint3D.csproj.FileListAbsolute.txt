@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\01.StructurePoint3D\bin\Debug\01.StructurePoint3D.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\01.StructurePoint3D\obj\Debug\01.StructurePoint3D.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\01.StructurePoint3D\bin\Debug\01.StructurePoint3D.exe
+c:\users\marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\01.StructurePoint3D\bin\Debug\01.StructurePoint3D.pdb
+c:\users\marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\01.StructurePoint3D\obj\Debug\01.StructurePoint3D.exe
+c:\users\marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\01.StructurePoint3D\obj\Debug\01.StructurePoint3D.pdb

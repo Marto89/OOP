@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\18.-19.StudentByGroup\bin\Debug\18.-19.StudentByGroup.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\18.-19.StudentByGroup\bin\Debug\18.-19.StudentByGroup.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\18.-19.StudentByGroup\bin\Debug\18.-19.StudentByGroup.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\18.-19.StudentByGroup\obj\Debug\18.-19.StudentByGroup.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\18.-19.StudentByGroup\obj\Debug\18.-19.StudentByGroup.pdb

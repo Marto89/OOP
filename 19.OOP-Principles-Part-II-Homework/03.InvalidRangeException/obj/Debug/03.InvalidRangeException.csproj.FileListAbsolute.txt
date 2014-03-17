@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\03.InvalidRangeException\bin\Debug\03.InvalidRangeException.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\03.InvalidRangeException\obj\Debug\03.InvalidRangeException.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\03.InvalidRangeException\obj\Debug\03.InvalidRangeException.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\19.OOP-Principles-Part-II\03.InvalidRangeException\obj\Debug\03.InvalidRangeException.pdb

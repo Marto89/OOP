@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\08.TimerUsingEvents\bin\Debug\08.TimerUsingEvents.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\08.TimerUsingEvents\bin\Debug\08.TimerUsingEvents.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\08.TimerUsingEvents\bin\Debug\08.TimerUsingEvents.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\08.TimerUsingEvents\obj\Debug\08.TimerUsingEvents.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\08.TimerUsingEvents\obj\Debug\08.TimerUsingEvents.pdb

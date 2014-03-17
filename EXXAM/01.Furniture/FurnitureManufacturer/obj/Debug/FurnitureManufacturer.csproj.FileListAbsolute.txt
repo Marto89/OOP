@@ -1,0 +1,6 @@
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\EXXAM\01.Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\EXXAM\01.Furniture\FurnitureManufacturer\bin\Debug\Furnitures.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\EXXAM\01.Furniture\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\EXXAM\01.Furniture\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\EXXAM\01.Furniture\FurnitureManufacturer\obj\Debug\Furnitures.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\EXXAM\01.Furniture\FurnitureManufacturer\obj\Debug\Furnitures.pdb

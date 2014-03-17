@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\17.MaxLengthString\bin\Debug\17.MaxLengthString.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\17.MaxLengthString\bin\Debug\17.MaxLengthString.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\17.MaxLengthString\bin\Debug\17.MaxLengthString.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\17.MaxLengthString\obj\Debug\17.MaxLengthString.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\17.MaxLengthString\obj\Debug\17.MaxLengthString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\02.Human\bin\Debug\02.Human.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\02.Human\obj\Debug\02.Human.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\02.Human\bin\Debug\02.Human.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\02.Human\bin\Debug\02.Human.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\02.Human\obj\Debug\02.Human.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\02.Human\obj\Debug\02.Human.pdb

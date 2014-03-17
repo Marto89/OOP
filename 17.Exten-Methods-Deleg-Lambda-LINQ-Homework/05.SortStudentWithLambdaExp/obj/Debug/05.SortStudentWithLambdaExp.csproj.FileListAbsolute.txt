@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\05.SortStudentWithLambdaExp\bin\Debug\05.SortStudentWithLambdaExp.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\05.SortStudentWithLambdaExp\bin\Debug\05.SortStudentWithLambdaExp.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\05.SortStudentWithLambdaExp\bin\Debug\05.SortStudentWithLambdaExp.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\05.SortStudentWithLambdaExp\obj\Debug\05.SortStudentWithLambdaExp.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\05.SortStudentWithLambdaExp\obj\Debug\05.SortStudentWithLambdaExp.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\05.SortStudentWithLambdaExp\obj\Debug\05.SortStudentWithLambdaExp.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\04.Person\bin\Debug\04.Person.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\04.Person\bin\Debug\04.Person.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\04.Person\bin\Debug\04.Person.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\04.Person\obj\Debug\04.Person.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\04.Person\obj\Debug\04.Person.pdb

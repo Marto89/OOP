@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\06.AllIntegersDivisibleBy7And3\bin\Debug\06.AllIntegersDivisibleBy7And3.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\06.AllIntegersDivisibleBy7And3\bin\Debug\06.AllIntegersDivisibleBy7And3.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\06.AllIntegersDivisibleBy7And3\bin\Debug\06.AllIntegersDivisibleBy7And3.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\06.AllIntegersDivisibleBy7And3\obj\Debug\06.AllIntegersDivisibleBy7And3.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\06.AllIntegersDivisibleBy7And3\obj\Debug\06.AllIntegersDivisibleBy7And3.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\06.AllIntegersDivisibleBy7And3\obj\Debug\06.AllIntegersDivisibleBy7And3.csprojResolveAssemblyReference.cache

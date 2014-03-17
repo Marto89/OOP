@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\05-07.GenericListT\bin\Debug\05-07.GenericListT.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\05-07.GenericListT\bin\Debug\05-07.GenericListT.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\05-07.GenericListT\bin\Debug\05-07.GenericListT.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\05-07.GenericListT\obj\Debug\05-07.GenericListT.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\05-07.GenericListT\obj\Debug\05-07.GenericListT.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\16.Defining-Classes-Part-II-Homework\05-07.GenericListT\obj\Debug\05-07.GenericListT.pdb

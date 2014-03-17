@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\05.BitArray64\bin\Debug\05.BitArray64.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\05.BitArray64\obj\Debug\05.BitArray64.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\05.BitArray64\bin\Debug\05.BitArray64.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\05.BitArray64\bin\Debug\05.BitArray64.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\05.BitArray64\obj\Debug\05.BitArray64.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\20.Common-Type-System-Homework\05.BitArray64\obj\Debug\05.BitArray64.pdb

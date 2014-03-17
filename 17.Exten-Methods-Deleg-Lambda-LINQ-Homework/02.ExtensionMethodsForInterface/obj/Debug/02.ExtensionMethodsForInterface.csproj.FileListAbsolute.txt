@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\02.ExtensionMethodsForInterface\bin\Debug\02.ExtensionMethodsForInterface.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\02.ExtensionMethodsForInterface\bin\Debug\02.ExtensionMethodsForInterface.exe
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\02.ExtensionMethodsForInterface\bin\Debug\02.ExtensionMethodsForInterface.pdb
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\02.ExtensionMethodsForInterface\obj\Debug\02.ExtensionMethodsForInterface.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\02.ExtensionMethodsForInterface\obj\Debug\02.ExtensionMethodsForInterface.exe
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\02.ExtensionMethodsForInterface\obj\Debug\02.ExtensionMethodsForInterface.pdb

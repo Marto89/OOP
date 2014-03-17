@@ -1,0 +1,7 @@
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Mine\obj\Debug\SoftwareAcademy.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Mine\obj\Debug\SoftwareAcademy.pdb

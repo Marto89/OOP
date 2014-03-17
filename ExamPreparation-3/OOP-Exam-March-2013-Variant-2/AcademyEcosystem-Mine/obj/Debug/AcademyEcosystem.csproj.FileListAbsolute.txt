@@ -1,0 +1,5 @@
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.pdb
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.exe
+F:\Programming Tools\Visual Studio 2013\Projects\OOP-Homework\ExamPreparation-3\OOP-Exam-March-2013-Variant-2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.pdb

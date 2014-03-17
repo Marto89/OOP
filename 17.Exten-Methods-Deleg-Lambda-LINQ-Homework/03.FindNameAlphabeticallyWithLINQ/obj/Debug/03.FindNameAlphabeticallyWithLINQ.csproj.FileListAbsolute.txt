@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\03.FindNameAlphabeticallyWithLINQ\bin\Debug\03.FindNameAlphabeticallyWithLINQ.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\03.FindNameAlphabeticallyWithLINQ\obj\Debug\03.FindNameAlphabeticallyWithLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\03.FindNameAlphabeticallyWithLINQ\bin\Debug\03.FindNameAlphabeticallyWithLINQ.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\03.FindNameAlphabeticallyWithLINQ\bin\Debug\03.FindNameAlphabeticallyWithLINQ.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\03.FindNameAlphabeticallyWithLINQ\obj\Debug\03.FindNameAlphabeticallyWithLINQ.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\03.FindNameAlphabeticallyWithLINQ\obj\Debug\03.FindNameAlphabeticallyWithLINQ.pdb

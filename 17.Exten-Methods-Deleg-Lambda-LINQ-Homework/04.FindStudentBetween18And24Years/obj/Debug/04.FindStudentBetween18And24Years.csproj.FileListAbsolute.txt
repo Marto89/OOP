@@ -1,0 +1,6 @@
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\04.FindStudentBetween18And24Years\bin\Debug\04.FindStudentBetween18And24Years.exe.config
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\04.FindStudentBetween18And24Years\bin\Debug\04.FindStudentBetween18And24Years.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\04.FindStudentBetween18And24Years\bin\Debug\04.FindStudentBetween18And24Years.pdb
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\04.FindStudentBetween18And24Years\obj\Debug\04.FindStudentBetween18And24Years.csprojResolveAssemblyReference.cache
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\04.FindStudentBetween18And24Years\obj\Debug\04.FindStudentBetween18And24Years.exe
+C:\Users\Marto\documents\visual studio 2013\Projects\17.Exten-Methods-Deleg-Lambda-LINQ\04.FindStudentBetween18And24Years\obj\Debug\04.FindStudentBetween18And24Years.pdb

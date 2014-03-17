@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\01.School\bin\Debug\01.School.exe.config
+c:\users\marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\01.School\bin\Debug\01.School.exe
+c:\users\marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\01.School\bin\Debug\01.School.pdb
+c:\users\marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\01.School\obj\Debug\01.School.exe
+c:\users\marto\documents\visual studio 2013\Projects\18.OOP-Principles-Part-I\01.School\obj\Debug\01.School.pdb
